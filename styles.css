@@ -23,11 +23,12 @@
 p{
 	font-size:14px;
 }
-span{
+.span{
 	margin-left:35%;
 	margin-top:29px;
 	font-size:12px;
 	font-style:italic;
+	text-align:right;
 }
 
 
